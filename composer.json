@@ -1,0 +1,17 @@
+{
+    "name": "nicolefrankie/ipt10-registration-login",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nicole Frankie Capuno",
+            "email": "colecapuno@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
